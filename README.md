@@ -1,7 +1,7 @@
-The provided code is a Python script for building, training, and evaluating neural network models for binary classification on a diabetes dataset. The key steps and components of the code are summarized below for a README file:
+
 
 ### Overview:
-The script demonstrates the creation and evaluation of neural network models with different regularization techniques (L1, L2, Dropout) using the TensorFlow and Keras libraries. The goal is to predict the presence or absence of diabetes based on various health-related features.
+The script demonstrates the creation and evaluation of neural network models with different regularization techniques (L1, L2) using the TensorFlow and Keras libraries. The goal is to predict the presence or absence of diabetes based on various health-related features.
 
 ### Steps:
 
